@@ -1,8 +1,19 @@
-body{background: #e5c9db 40px}
+body{
+    background: #e5c9db 
+    40px
+}
 
-a .Anterior{color:whitesmoke; display: block;
-    text-align: right;}
+a .Anterior{
+    color:whitesmoke; 
+    display: block;
+    text-align: right;
+}
 
- button{color: whitesmoke; border:#e5c9db}
+ button{
+    color: whitesmoke; 
+    border:#e5c9db
+}
 
- h1{color: white;}
+ h1{
+    color: white;
+}

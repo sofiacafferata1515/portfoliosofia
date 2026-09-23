@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Monoespaciada";
+    src: url("./fonts/BasierSquareMono-Regular\ copia.otf");
+}
+
+@font-face {
+    font-family: "Monoespaciada";
+    src: url("./fonts/BasierSquareMono-RegularItalic\ copia.otf");
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Monoespaciada";
+    src: url("./fonts/BasierSquareMono-SemiBold\ copia.otf");
+    font-weight: bolder;
+}

@@ -1,23 +1,67 @@
-body{background:#e5c9db;  margin: 40px;}
+body{
+    background:#e5c9db;  
+    margin: 40px;
+    font-family: "Monoespaciada";
+}
 
-h1{color:whitesmoke; background:#e5c9db; text-align: center;}
+h1{
+    color:whitesmoke; 
+    background:#e5c9db; 
+    text-align: center;
+    letter-spacing: 5px;
+    font-style: italic;
+}
 
-h2{color:whitesmoke;text-align: center;}
+h2{
+    color:whitesmoke;
+    text-align: center;
+}
 
-p{color:#e5c9db;background:whitesmoke; padding: 10px;text-align:center;}
+p{
+    color:#e5c9db;
+    background:whitesmoke; 
+    padding: 10px;
+    text-align:center;
+}
 
-img{width:15%;   display: block;
-    margin: auto;}
+img{
+    width:15%;   
+    display: block;
+    margin: auto;
+}
 
-a { color: #e5c9db;}
+a { 
+    color: #e5c9db;
+}
 
-h3{color: whitesmoke}
+h3{
+    color: whitesmoke
+}
 
-ol{list-style:none; color:whitesmoke; }
+ol{
+    list-style:none;
+     color:whitesmoke; 
+}
 
-ul{list-style: none;color:#e5c9db;background:whitesmoke; padding: 10px;text-align:left;}
+ul{
+    list-style: none;
+    color:#e5c9db;
+    background:whitesmoke; 
+    padding: 10px;
+    text-align:left;
+}
 
-a.Contacto {color:whitesmoke; display: block;
-    text-align: right;}
+a.Contacto {
+    color:whitesmoke; 
+    display: block;
+    text-align: right;
+}
 
-button{color: whitesmoke; border:#e5c9db}
+button{
+    color: whitesmoke; 
+    border:#e5c9db
+}
+
+.graduada{
+    font-size: 15px;
+}
