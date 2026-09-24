@@ -1,16 +1,36 @@
 @font-face {
-    font-family: "Monoespaciada";
-    src: url("./fonts/BasierSquareMono-Regular\ copia.otf");
+    font-family: "Migha";
+    src: url(fuentes/Migha-SemiExpandedCNTR\ copia.otf);
+    font-weight: 900;
 }
 
 @font-face {
-    font-family: "Monoespaciada";
-    src: url("./fonts/BasierSquareMono-RegularItalic\ copia.otf");
+    font-family: "Migha";
+    src: url(fuentes/Migha-ThinSemiExpanded\ copia.otf);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "Migha";
+    src: url(fuentes/Migha-ThinSemiExpandedCNTR\ copia.otf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Migha";
+    src: url(fuentes/Migha_Variable\ copia.ttf);
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: "Basier Square Mono";
+    src: url(fuentes/BasierSquareMono-Regular\ copia.otf);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "Basier Square Mono";
+    src: url(fuentes/BasierSquareMono-RegularItalic\ copia.otf);
+    font-weight: 100;
     font-style: italic;
-}
-
-@font-face {
-    font-family: "Monoespaciada";
-    src: url("./fonts/BasierSquareMono-SemiBold\ copia.otf");
-    font-weight: bolder;
 }
